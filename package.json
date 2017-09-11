@@ -1,0 +1,27 @@
+{
+  "name": "node-ip-location",
+  "version": "1.0.0",
+  "description": "A module convert ip to location use local data",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anlibraly/node-ip-location.git"
+  },
+  "keywords": [
+    "nodejs",
+    "ip",
+    "location"
+  ],
+  "author": "Anlibraly",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Anlibraly/node-ip-location/issues"
+  },
+  "homepage": "https://github.com/Anlibraly/node-ip-location#readme"
+}
